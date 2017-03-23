@@ -1,0 +1,3 @@
+恭喜，您可以用简单shell命令控制Mac了。 \n
+比如：ls pwd ifconfig 等等 \n
+\n退订回复:TD

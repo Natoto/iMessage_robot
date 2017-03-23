@@ -1,0 +1,42 @@
+2017-03-23 16:27:32:您好，我是机器人。请回复需求指令（比如 menu）： menu：功能大全  shell：特色服务  about：关于我们 
+2017-03-23 16:32:17:shutdown
+2017-03-23 16:32:17:
+2017-03-23 16:34:56:shell
+2017-03-23 16:34:56:恭喜，您可以用简单shell命令控制Mac了。  比如：ls pwd ifconfig 等等  退订回复:TD
+2017-03-23 16:35:08:shutdown
+2017-03-23 16:35:08:我的主人不希望你进行这样的操作
+2017-03-23 16:35:20:ls
+2017-03-23 16:35:20:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
+2017-03-23 16:40:00:连接超时，重新连接需要发送:menu、shell、about 等指令
+2017-03-23 16:40:10:Shell
+2017-03-23 16:40:10:恭喜，您可以用简单shell命令控制Mac了。  比如：ls pwd ifconfig 等等  退订回复:TD
+2017-03-23 16:40:33:Cd
+2017-03-23 16:40:33:
+2017-03-23 16:40:41:also
+2017-03-23 16:40:41:我无法识别这样的shell命令
+2017-03-23 16:40:44:Ls
+2017-03-23 16:40:44:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
+2017-03-23 16:42:53:ls
+2017-03-23 16:42:53:
+2017-03-23 16:43:00:shell
+2017-03-23 16:43:00:恭喜，您可以用简单shell命令控制Mac了。  比如：ls pwd ifconfig 等等  退订回复:TD
+2017-03-23 16:43:06:ls
+2017-03-23 16:43:06:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
+2017-03-23 16:43:08:cd
+2017-03-23 16:43:08:
+2017-03-23 16:43:14:ls
+2017-03-23 16:43:14:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
+2017-03-23 16:43:29:cd /Users/wangdt/Desktop
+2017-03-23 16:43:29:
+2017-03-23 16:43:32:ls
+2017-03-23 16:43:32:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
+2017-03-23 16:44:01:cd home
+2017-03-23 16:44:01:
+2017-03-23 16:45:26:ls
+2017-03-23 16:45:26:
+2017-03-23 16:45:34:shell
+2017-03-23 16:45:34:恭喜，您可以用简单shell命令控制Mac了。  比如：ls pwd ifconfig 等等  退订回复:TD
+2017-03-23 16:45:39:cd home
+2017-03-23 16:45:39:
+2017-03-23 16:45:50:ls
+2017-03-23 16:45:50:ApplicationsLibraryNetworkSystemUsersVolumesbincoresdevetchomeinstaller.failurerequestsnetoptprivatesbintmpusrvar
