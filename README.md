@@ -2,8 +2,9 @@
 ## 功能：
 > 功能前提：message.app必须是在Mac上正在后台运行着的
 
-* 当朋友给你发iMessage时，自动回复有意思的消息
-* 自己给自己的iMessage发送`CloseScreen;`消息，当前的Mac会锁屏
+* 当朋友给你发iMessage时，自动回复有意思的消息;
+* 当前Mac可以执行iMessage信息中的`shell` 命令，当然这个有点危险，你可以过滤一些已知的危险命令，比如`rm`、`mv`...最好的方案就是把这个权限只给自己;
+* 自己可以通过`iMessage`控制自己的Mac，比如发送`CloseScreen;`消息，当前的Mac会休眠；还有`LockScreen;`->Mac会锁屏;`ShutDown;`-> Mac关机; 当然，你自己也可以通过`AppleScript`添加自己想要的更多的功能。
 
 ## 使用步骤：
 
