@@ -11,6 +11,7 @@
 * 1，下载解压后，移动用户目录`～/`下，并把文件夹`iMessage_robot-master`重命名为`message`。
 * 2，复制脚本：「`message.app` - 偏好设置 - 通用 - `AppleScript`处理程序 - 打开`Scripts`文件夹」，此时把目录`message`下文件`iMessage_robot.applescript`复制到刚才打开的`Scripts`文件夹下，并在 `AppleScript`处理程序 中选中`iMessage_robot.applescript `。
 * 3，修改一下`iMessage_robot.applescript `中的`senderNumber contains "definemyself"` 把`definemyself`改成你自己的账号。
+* 这样，你可以让朋友给你发iMessage测试一下，当然你可以自己给自己发iMessage了。
 
 ## 文章
 这是我写的关于这个 ***自动回复机器人*** 的两篇文章，有兴趣的同学可以看看。
